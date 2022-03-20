@@ -1,16 +1,15 @@
 <div>
 
 <a href="https://minun.dev">
-<h1 style="border-bottom: 0; padding-bottom: 0rem; margin-bottom: 1rem; line-height: 1rem;">Minun</h1>
+<h1 style="">
+Minun
+</h1>
 </a>
 
-<h3 style="padding-top: 0;">Develop from iPad.</h3>
-
+</div>
 
 [![Discord](https://img.shields.io/discord/953913554925412372)](https://discord.gg/VcvSQBSdQm)
 
-<hr />
-</div>
 
 <div>
 <img src="https://raw.githubusercontent.com/surreyhq/community/main/assets/screenshot-live-coding-2.png">
@@ -28,7 +27,7 @@ Minun is a code editor app optimized for iPad.
 
 **🗃 Project Management** - Minun helps you jump between different projects seamlessly.
 
-<small>These features are in pre-alpha stage; this list is subjected to change in the future. Feel free to join our ]Discord server][discord-invitation] and tell us your thoughts 🙌</small>
+<small>These features are in pre-alpha stage; this list is subjected to change in the future. Feel free to join our [Discord server][discord-invitation] and tell us your thoughts 🙌</small>
 
 
 ## Getting Started
