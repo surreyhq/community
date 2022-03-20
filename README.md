@@ -2,18 +2,19 @@
 
 <h1 style="">
 <a href="https://minun.dev">
-Minun - develop from iPad
+Minun - Develop from iPad
 </a>
 </h1>
 
 </div>
 
-[![Discord](https://img.shields.io/discord/953913554925412372)](https://discord.gg/VcvSQBSdQm)
-
 
 <div>
 <img src="https://raw.githubusercontent.com/surreyhq/community/main/assets/screenshot-live-coding-2.png">
-<div>
+</div>
+
+
+[![Discord](https://img.shields.io/discord/953913554925412372)](https://discord.gg/VcvSQBSdQm)
 
 [Minun][minun-dev] is a code editor app optimized for iPad.
 
