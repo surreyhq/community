@@ -28,7 +28,7 @@ Minun - Develop from iPad
 
 **🗃 Project Management** - Minun helps you jump between different projects seamlessly.
 
-<span style="font-size: 8px;">These features are in pre-alpha stage; this list is subjected to change in the future. Feel free to join our <a href="https://discord.gg/VcvSQBSdQm">Discord server</a> and tell us your thoughts 🙌</span>
+<sub>These features are in pre-alpha stage; this list is subjected to change in the future. Feel free to join our <a href="https://discord.gg/VcvSQBSdQm">Discord server</a> and tell us your thoughts 🙌</sub>
 
 
 ## Getting Started
