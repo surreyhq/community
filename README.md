@@ -1,10 +1,10 @@
 <div>
 
-<a href="https://minun.dev">
 <h1 style="">
-Minun
-</h1>
+<a href="https://minun.dev">
+Minun - develop from iPad
 </a>
+</h1>
 
 </div>
 
@@ -15,7 +15,7 @@ Minun
 <img src="https://raw.githubusercontent.com/surreyhq/community/main/assets/screenshot-live-coding-2.png">
 <div>
 
-Minun is a code editor app optimized for iPad.
+[Minun][minun-dev] is a code editor app optimized for iPad.
 
 ## Features
 
@@ -38,4 +38,5 @@ We are in the process of App Store review, please stay tuned. You can also join 
 
 Please join our [Discord server][discord-invitation] to raise any questions and have fun with us!
 
+[minun-dev]: https://minun.dev
 [discord-invitation]: https://discord.gg/VcvSQBSdQm
